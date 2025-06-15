@@ -1,12 +1,37 @@
-# Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+# 🎬 Netflix Clone — React + Firebase
 
-## Steps to Start the App
+Welcome to my **Netflix Clone** project — a modern web app inspired by Netflix's UI and functionality.  
+Built using **React.js**, **Firebase**, and deployed with **Vercel**, this app showcases my ability to integrate frontend and backend technologies seamlessly.
 
-+ Install React Dependencies
-+ Instal Node Dependencies
-+ Start Node App
-+ Start React App
+🌐 **Live Site:** [https://netflix-clone-react-app-one.vercel.app/](https://netflix-clone-react-app-one.vercel.app/)
 
+---
 
-## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
+## 🖼️ Preview
 
+| Home Page | Movie Detail |
+|:--:|:--:|
+| ![](Demo-image/001.png) | ![](Demo-image/002.png) |
+
+---
+
+## 📌 Features
+
+✅ **User Authentication** (Sign Up / Login / Logout)  
+✅ **Firebase Firestore + Auth integration**  
+✅ **Styled components with clean UI**  
+✅ **Responsive and mobile-friendly design**  
+✅ **Dynamic movie rows powered by API**  
+✅ **Deployed on Vercel**
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Firebase (Authentication, Firestore)**
+- **Axios**
+- **TMDB API**
+- **Vercel (Frontend Deployment)**
+
+---
